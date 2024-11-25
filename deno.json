@@ -1,5 +1,5 @@
 {
-  "name": "@krishzuz/jsx-file-formatter",
+  "name": "@fooldev/jsx-file-formatter",
   "version": "0.1.0",
   "license": "MIT",
   "exports": "./mod.ts"
